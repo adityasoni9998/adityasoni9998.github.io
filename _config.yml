@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Aditya Bharat Soni
+description: Final Year B.Tech Student | Computer Science and Engineering | IIT Kharagpur
 
-baseurl: "/" #name of GitHub repository
+baseurl: "adityasoni9998.github.io" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: adityasoni9998@gmail.com
 
 # Pagination
 paginate: 4
@@ -13,15 +13,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+linkedin: "https://www.linkedin.com/in/adityasoni17"
+github: "https://www.github.com/adityasoni9998"
 
 
 # Markdown
