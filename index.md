@@ -11,8 +11,6 @@ Hi, I am Aditya. I am a final year undergraduate student in the Department of Co
 
 **Interests and Experience:** I am interested in the Natural Language Processing and Applied Machine Learning. In particular, I want to explore the ethical aspects of Artificial Intelligence models - ensuring that they are unbiased, adversarially robust and trustworthy.
 
-For the research project under Prof. Mukherjee, I worked on identifying gender biases in neural network classifiers that were trained to predict the occupation of a human entity. My bachelor's thesis is about adversarial attacks on API-based NLP models. I have also developed a retrieval system for research papers that ranks papers based on their similarity with a query paper based on a specific section like background, result or method. 
-
 
 In addition to my research endeavours, I have  
 [Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
