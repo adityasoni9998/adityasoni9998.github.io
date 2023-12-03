@@ -4,7 +4,7 @@ title: Aditya Bharat Soni
 description: Computer Science and Engineering | IIT Kharagpur
 
 baseurl: "/" #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "https://cse.iitkgp.ac.in/~soniab" #custom url to be used instead of GitHub repository
 email: adityasoni9998@gmail.com
 
 # Pagination
