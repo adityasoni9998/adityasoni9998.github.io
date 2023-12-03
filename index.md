@@ -9,9 +9,9 @@ published: true
 
 Hi, I am Aditya. I am a final year undergraduate student in the Department of Computer Science and Engineering at Indian Institute of Technology Kharagpur (IIT KGP). I am currently working on my Bachelor's Thesis Project under Prof. Somak Aditya and Prof. Mainack Mondal at IIT KGP. Previously, I have worked on a year-long research project under the guidance Prof. Animesh Mukherjee at IIT KGP. I have also completed a 12-week Software Engineering Internship at Google.
 
-**Bio:** I am interested in the field of Natural Language Processing and Applied Machine Learning. I am interested in working on the ethical aspects of Artificial Intelligence models to ensure that they are unbiased and trustworthy.
+**Interests and Experience:** I am interested in the Natural Language Processing and Applied Machine Learning. In particular, I want to explore the ethical aspects of Artificial Intelligence models - ensuring that they are unbiased, adversarially robust and trustworthy.
 
-For the research project under Prof. Mukherjee, I worked on identifying gender biases in neural network classifiers trained to predict the occupation of a human entity. For my bachelor's thesis, I am working on the topic of adversarial attacks on API-based NLP models. My goal is to develop an algorithm that learns triggers which work for any input sample of any arbitrary task. 
+For the research project under Prof. Mukherjee, I worked on identifying gender biases in neural network classifiers that were trained to predict the occupation of a human entity. My bachelor's thesis is about adversarial attacks on API-based NLP models. I have also developed a retrieval system for research papers that ranks papers based on their similarity with a query paper based on a specific section like background, result or method. 
 
 
 In addition to my research endeavours, I have  
