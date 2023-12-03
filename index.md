@@ -9,9 +9,16 @@ published: true
 
 Hi, I am Aditya. I am a final year undergraduate student in the Department of Computer Science and Engineering at Indian Institute of Technology Kharagpur (IIT KGP). I am currently working on my Bachelor's Thesis Project under Prof. Somak Aditya and Prof. Mainack Mondal at IIT KGP. Previously, I have worked on a year-long research project under the guidance Prof. Animesh Mukherjee at IIT KGP. I have also completed a 12-week Software Engineering Internship at Google.
 
-**My Interests:** I am interested in the Natural Language Processing and Applied Machine Learning. In particular, I want to explore the ethical aspects of Artificial Intelligence models - ensuring that they are unbiased, adversarially robust and trustworthy.
+# **My Interests:**
+
+I am interested in the Natural Language Processing and Applied Machine Learning. In particular, I want to explore the ethical aspects of Artificial Intelligence models - ensuring that they are unbiased, adversarially robust and trustworthy.
 
 The problems I have worked on include gender biases in neural network classifiers, adversarial attacks on LLMs and retrieval of research papers. Though my present experiences are mostly in NLP and ML, I also want to explore Reinforcement Learning and Computer Vision in the future.
+
+# **Publications**
+1. Social Biases in Wikidata Separate the Global North from the Global South: **ICWSM 2024 (under review)**
+2. Effigy: Learning Task-Agnostic Triggers for Auditing API-Based
+Instruction Fine-tuned Language Models: **EACL 2024 (under review)**
 
 <!-- In addition to my research endeavours, I have  
 [Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
