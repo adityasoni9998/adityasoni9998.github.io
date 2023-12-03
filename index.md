@@ -20,6 +20,10 @@ The problems I have worked on include gender biases in neural network classifier
 2. Effigy: Learning Task-Agnostic Triggers for Auditing API-Based
 Instruction Fine-tuned Language Models: **EACL 2024 (under review)**
 
+# **CV**
+My current CV can be found [here](https://drive.google.com/file/d/1GyC4lO_hudrpd1ZJNRAYKFPu4YtRu7CK/view?usp=sharing).
+
+
 <!-- In addition to my research endeavours, I have  
 [Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
