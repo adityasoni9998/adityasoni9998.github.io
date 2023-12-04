@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Biases in Wikidata Separate the Global North from the Global South
+title: Social Biases in Wikidata Knowledge Graph
 description: Research project
 ---
 
