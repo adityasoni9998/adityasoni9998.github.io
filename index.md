@@ -7,7 +7,9 @@ profile:
 published: true
 ---
 
-Hi, I am Aditya. I am a fourth-year B.Tech student in the Department of Computer Science and Engineering at the Indian Institute of Technology(IIT) Kharagpur. My current research interests include Natural Language Processing and Machine Learning. In particular, I want to explore the ethical aspects of Artificial Intelligence models and ensure that they are unbiased, adversarially robust and trustworthy. Throughout my undergraduate years, I've worked on a lot of projects in the areas of Machine Learning, Natural Language Processing, Information Retrieval, Operating Systems, Databases and Web Development. Currently I am working on my Bachelor's Thesis Project to deploy adversarial attacks on API-based NLP models using input-agnostic and task-agnostic input perturbations.
+Hi, I am Aditya. I am a fourth-year B.Tech student in the Department of Computer Science and Engineering at the Indian Institute of Technology(IIT) Kharagpur. 
+
+My current research interests include Natural Language Processing and Machine Learning. In particular, I want to explore the ethical aspects of Artificial Intelligence models and ensure that they are unbiased, adversarially robust and trustworthy. Throughout my undergraduate years, I've worked on a lot of projects in the areas of Machine Learning, Natural Language Processing, Information Retrieval, Operating Systems, Databases and Web Development. Currently I am working on my Bachelor's Thesis Project to deploy adversarial attacks on API-based NLP models using input-agnostic and task-agnostic input perturbations.
 
 # **Experience**
 
