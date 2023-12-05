@@ -13,9 +13,6 @@ My current research interests include Natural Language Processing and Machine Le
 
 # **Experience**
 
-In addition to the course projects, I have also been actively involved in various research projects at IIT Kharagpur. I have worked on a year-long research project under the guidance of Prof. Animesh Mukherjee. This project explored how the gender biases encoded in the Wikidata Knowledge Graph propagate to the downstream link prediction task. For my Bachelor's Thesis, I am advised by Prof. Somak Aditya and Prof. Mainack Mondal. In this project, I am developing a framework to learn input-agnostic (universal) perturbations, called triggers, that can significantly degrade the performance of an instruction fine-tuned language model across diverse tasks and languages. Furthermore, an important assumption we make is that the attacker has black-box API access to the model being attacked.
-
-Though my present experiences are mostly in NLP and ML, I also want to explore Reinforcement Learning and Computer Vision in the future.
-
+In addition to the course projects, I have also been actively involved in various research projects at IIT Kharagpur. I have worked on a year-long research project under the guidance of Prof. Animesh Mukherjee. This project explored how the gender biases encoded in the Wikidata Knowledge Graph propagate to the downstream link prediction task. For my Bachelor's Thesis, I am advised by Prof. Somak Aditya and Prof. Mainack Mondal. In this project, I am developed a framework to learn input-agnostic (universal) perturbations, called triggers, that can significantly degrade the performance of an instruction fine-tuned language model across diverse tasks and languages. Furthermore, an important constraint is that the attacker has black-box API access to the model being attacked.
 # **Contact**
 Please feel free to email me at: [adityasoni9998@gmail.com](mailto:adityasoni9998@gmail.com).
