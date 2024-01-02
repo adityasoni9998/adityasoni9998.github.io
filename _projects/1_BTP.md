@@ -6,7 +6,7 @@ description: Learning task-agnostic triggers for API-based LLMs
 
 # About
 
-Given an instruction fine-tuned model with black-box query access, learn input-agnostic trigger phrases without assuming access to the model's internals like parameters, training data, architecture, etc. Furthermore, investigate whether the triggers transfer to other tasks as well. The attacker's intent is to degrade the model's performance on various tasks.
+Given an instruction fine-tuned model with black-box query access, the objective is to learn input-agnostic trigger phrases without assuming access to the model's internals like parameters, training data, architecture, etc. Furthermore, we investigate whether the triggers transfer to other tasks as well. The attacker's intent is to degrade the model's performance on various tasks.
 
 # Why are task-agnostic triggers concerning?
 
