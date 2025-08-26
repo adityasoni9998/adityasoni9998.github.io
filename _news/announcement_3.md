@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-06-08
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper on [OpenHands-Versa](https://arxiv.org/abs/2506.03011) was accepted to ICML [Workshop on Computer-Use Agents](https://www.icml-computeruseagents.com/).

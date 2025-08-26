@@ -1,115 +1,79 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
-}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
+@misc{vijayvargiya2025openagentsafetycomprehensiveframeworkevaluating,
+  abbr={arXiv 2025},
+  title={OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety}, 
+  author={Sanidhya Vijayvargiya* and Aditya Bharat Soni* and Xuhui Zhou and Zora Zhiruo Wang and Nouha Dziri and Graham Neubig and Maarten Sap},
+  year={2025},
+  eprint={2507.06134},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2507.06134},
   selected={true},
-  inspirehep_id = {3255}
+  abstract={Recent advances in AI agents capable of solving complex, everyday tasks, from scheduling to customer service, have enabled deployment in real-world settings, but their possibilities for unsafe behavior demands rigorous evaluation. While prior benchmarks have attempted to assess agent safety, most fall short by relying on simulated environments, narrow task domains, or unrealistic tool abstractions. We introduce OpenAgentSafety, a comprehensive and modular framework for evaluating agent behavior across eight critical risk categories. Unlike prior work, our framework evaluates agents that interact with real tools, including web browsers, code execution environments, file systems, bash shells, and messaging platforms; and supports over 350 multi-turn, multi-user tasks spanning both benign and adversarial user intents. OpenAgentSafety is designed for extensibility, allowing researchers to add tools, tasks, websites, and adversarial strategies with minimal effort. It combines rule-based analysis with LLM-as-judge assessments to detect both overt and subtle unsafe behaviors. Empirical analysis of five prominent LLMs in agentic scenarios reveals unsafe behavior in 51.2% of safety-vulnerable tasks with Claude-Sonnet-3.7, to 72.7% with o3-mini, highlighting critical safety vulnerabilities and the need for stronger safeguards before real-world deployment.},
+  pdf={https://arxiv.org/pdf/2507.06134}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@misc{soni2025codingagentsmultimodalbrowsing,
+  abbr={ICML WCUA 2025},
+  title={Coding Agents with Multimodal Browsing are Generalist Problem Solvers},
+  author={Aditya Bharat Soni and Boxuan Li and Xingyao Wang and Valerie Chen and Graham Neubig},
+  year={2025},
+  eprint={2506.03011},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  abstract={Modern human labor is characterized by specialization; we train for years and
+develop particular tools that allow us to perform well across a variety of tasks. In
+addition, AI agents have been specialized for domains such as software engineering,
+web navigation, and workflow automation. However, this results in agents that
+are good for one thing but fail to generalize beyond their intended scope. One
+reason for this is that agent developers provide a highly specialized set of tools or
+make architectural decisions optimized for a specific use case or benchmark. In
+this work, we ask the question: what is the minimal set of general tools that can
+be used to achieve high performance across a diverse set of tasks? Our answer is
+OpenHands-Versa, a generalist agent built with a modest number of general tools:
+code editing and execution, web search, as well as multimodal web browsing and
+file access. Importantly, OpenHands-Versa demonstrates superior or competitive
+performance over leading specialized agents across three diverse and challenging
+benchmarks: SWE-Bench Multimodal [23], GAIA [11], and The Agent Company
+[20], outperforming the best-performing previously published results with absolute
+improvements in success rate of 9.1, 1.3, and 9.1 points respectively. Further, we
+show how existing state-of-the-art multi-agent systems fail to generalize beyond
+their target domains. These results demonstrate the feasibility of developing a
+generalist agent to solve diverse tasks and establish OpenHands-Versa as a strong
+baseline for future research.},
+  url={https://arxiv.org/abs/2506.03011},
+  pdf={https://arxiv.org/pdf/2506.03011},
+  selected={true},
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@inproceedings{das2025social,
+  abbr={ACM WebSci 2025}, 
+  title={Social Biases in Knowledge Representations of Wikidata separates Global North from Global South},
+  author={Das, Paramita and Karnam, Sai Keerthana and Soni, Aditya Bharat and Mukherjee, Animesh},
+  booktitle={Proceedings of the 17th ACM Web Science Conference 2025},
+  pages={12--21},
+  year={2025},
+  url={https://dl.acm.org/doi/full/10.1145/3717867.3717882},
+  pdf={https://dl.acm.org/doi/pdf/10.1145/3717867.3717882},
+  selected={true},
+  abstract={Knowledge Graphs have become increasingly popular due to their
+wide usage in various downstream applications, including information retrieval, chatbot development, language model construction,
+and many others. Link prediction (LP) is a crucial downstream task
+for knowledge graphs, as it helps to address the problem of the
+incompleteness of the knowledge graphs. However, previous research has shown that knowledge graphs, often created in a (semi)
+automatic manner, are not free from social biases. These biases can
+have harmful effects on downstream applications, especially by
+leading to unfair behavior toward minority groups. To understand
+this issue in detail, we develop a framework – AuditLP – deploying fairness metrics to identify biased outcomes in LP, specifically
+how occupations are classified as either male or female-dominated
+based on gender as a sensitive attribute. We have experimented
+with the sensitive attribute of age and observed that occupations
+are categorized as young-biased, old-biased, and age-neutral. We
+conduct our experiments on a large number of knowledge triples
+that belong to 21 different geographies extracted from the opensourced knowledge graph, Wikidata. Our study shows that the
+variance in the biased outcomes across geographies neatly mirrors
+the socio-economic and cultural division of the world, resulting in
+a transparent partition of the Global North from the Global South.}
 }

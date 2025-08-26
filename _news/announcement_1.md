@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-07-23
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Invited talk on [OpenHands-Versa](https://arxiv.org/abs/2506.03011) at [Microsoft Research](https://www.microsoft.com/en-us/research/about-microsoft-research/), [ResearchTrend.AI](https://researchtrend.ai/), and [Ploutos](https://world.ploutos.dev/).
